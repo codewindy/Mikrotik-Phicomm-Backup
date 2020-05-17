@@ -9,3 +9,6 @@
 * [MikroTik_RouterOS_6.44.2_crackzsoft.com](https://crackzsoft.com/mikrotik-routeros/)
 * `router_bin_recover`   **tp_link路由器的备份配置文件bin**
 * http://tftpd32.jounin.net/  tftp服务器
+* `http://www.brendangregg.com/` Linux tutorial
+* [LEDE 下载地址](http://firmware.koolshare.cn/LEDE_X64_fw867/)
+* [RouterPassView](https://www.nirsoft.net/utils/router_password_recovery.html)
