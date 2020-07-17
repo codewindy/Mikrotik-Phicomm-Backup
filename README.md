@@ -15,3 +15,5 @@
 * [koolss_2.2.2_x64.tar.gz openwrt](https://github.com/codewindy/Mikrotik-Phicomm-Backup/blob/master/koolss_2.2.2_x64.tar.gz) 离线安装 
 * [v2ray_2.3.7_x64.tar.gz openwrt](https://github.com/codewindy/Mikrotik-Phicomm-Backup/blob/master/v2ray_2.3.7_x64.tar.gz) 离线安装
 ![2020-05-18_211705v2ray.png](https://i.loli.net/2020/05/18/EWYZBStAOx9wkDi.png)
+# hap ac2 optimized config
+* [RBD52G-5HacD2HnD](https://codewindy.github.io/2020/04/18/RouterOS-Optimized/) RouterOS 无线优化和常用配置
