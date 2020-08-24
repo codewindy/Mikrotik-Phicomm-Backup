@@ -9,6 +9,7 @@
 * HC5661-sysupgrade-20140911-95d8bc22-ssh [极路由官网修砖](http://www.hiwifi.com/service_faq?id=62&article_id=34)
 * `router_bin_recover`   **tp_link路由器的备份配置文件bin**
 * http://tftpd32.jounin.net/  tftp服务器
+* `wifite_deauth.zip` **修改源码实现扫描附近Wi-Fi并deauth已连接的client配合RouterOS的hotspot镜像相同的ssid并开启packet sniffer来抓取密码** 
 * `http://www.brendangregg.com/` Linux tutorial
 * [LEDE 下载地址](http://firmware.koolshare.cn/LEDE_X64_fw867/)
 * [RouterPassView](https://www.nirsoft.net/utils/router_password_recovery.html)
