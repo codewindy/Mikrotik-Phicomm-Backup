@@ -1,6 +1,8 @@
-# Mikrotik-Phicomm-Backup
+# MikroTik-Phicomm-Backup
+* [本田云](http://hondacloud.ml/auth/register) 免费机场
+* [v2ray客户端](https://tlanyan.me/v2ray-clients-download/)
 * [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)
-* [ss.netnr.com](http://ss.netnr.com)
+* [EDCwifi](https://www.edcwifi.com.cn/resources) 资源教程
 * [hap ac2 vs rt-ac86u](http://routerchart.com/compare/mikrotik-routerboard-hap-ac-rb962uigs-5hact2hnt-151,asus-rt-ac86u-rt-ac86u-369)
 * [hap ac2.pdf](https://www.edcwifi.com.cn/project/afc_api/Public/Uploads/2019-10-17/5da816a82f565.pdf) RouterOS Wi-Fi
 * [k2p_mtk.zip](https://www.mingjinglu.com/write/548.html)  k2p官改固件
