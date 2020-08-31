@@ -12,7 +12,7 @@
 * `router_bin_recover`   **tp_link路由器的备份配置文件bin**
 * http://tftpd32.jounin.net/  tftp服务器
 * `wifite_deauth.zip` **修改源码实现扫描附近Wi-Fi并deauth已连接的client配合RouterOS的hotspot镜像相同的ssid并开启packet sniffer来抓取密码** 
-![IMG_9219.PNG](https://i.loli.net/2020/08/27/dMLKjgfpc6n9Yok.png)
+* ![IMG_9219 _1_.png](https://i.loli.net/2020/08/31/zO68KxwlGdZaSyi.png)
 * `http://www.brendangregg.com/` Linux tutorial
 * [LEDE 下载地址](http://firmware.koolshare.cn/LEDE_X64_fw867/)
 * [RouterPassView](https://www.nirsoft.net/utils/router_password_recovery.html)
