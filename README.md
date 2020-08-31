@@ -3,6 +3,7 @@
 * [v2ray客户端](https://tlanyan.me/v2ray-clients-download/)
 * [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)
 * [EDCwifi](https://www.edcwifi.com.cn/resources) 资源教程
+* [EDCwifi.com](https://download.edcwifi.com/index.php?title=MikroTik%E6%89%8B%E5%86%8C) edcwifi npk download
 * [hap ac2 vs rt-ac86u](http://routerchart.com/compare/mikrotik-routerboard-hap-ac-rb962uigs-5hact2hnt-151,asus-rt-ac86u-rt-ac86u-369)
 * [hap ac2.pdf](https://www.edcwifi.com.cn/project/afc_api/Public/Uploads/2019-10-17/5da816a82f565.pdf) RouterOS Wi-Fi
 * [k2p_mtk.zip](https://www.mingjinglu.com/write/548.html)  k2p官改固件
@@ -11,8 +12,6 @@
 * HC5661-sysupgrade-20140911-95d8bc22-ssh [极路由官网修砖](http://www.hiwifi.com/service_faq?id=62&article_id=34)
 * `router_bin_recover`   **tp_link路由器的备份配置文件bin**
 * http://tftpd32.jounin.net/  tftp服务器
-* `wifite_deauth.zip` **修改源码实现扫描附近Wi-Fi并deauth已连接的client配合RouterOS的hotspot镜像相同的ssid并开启packet sniffer来抓取密码** 
-* ![IMG_9219 _1_.png](https://i.loli.net/2020/08/31/zO68KxwlGdZaSyi.png)
 * `http://www.brendangregg.com/` Linux tutorial
 * [LEDE 下载地址](http://firmware.koolshare.cn/LEDE_X64_fw867/)
 * [RouterPassView](https://www.nirsoft.net/utils/router_password_recovery.html)
@@ -41,5 +40,7 @@
     /interface wireless nstreme
     set wlan2 enable-polling=no
   ```
-
-  
+## hotspot config
+* `wifite_deauth.zip` **修改源码实现扫描附近Wi-Fi并deauth已>连接的client配合RouterOS的hotspot镜像相同的ssid并开启packet sniffer来抓取密码**
+* ![IMG_9219 _1_.png](https://i.loli.net/2020/08/31/zO68KxwlGdZaSyi.png)
+* 客户端连接到hotspot后根据上图的提示输入Wi-Fi密码，此时已经配置好抓包的RouterOS可以获取到明文密码，通过导出到wireshark并在其中搜索`http contains POST`即可快速定位到该提交的密码数据包  
