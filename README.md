@@ -1,5 +1,8 @@
 # MikroTik-Phicomm-Backup
 * [本田云](http://hondacloud.ml/auth/register) 免费机场
+* [rerere.top](http://www.rerere.top/auth/register) 10GB ssr
+* [jgjc.top](http://www.jgjc.top/auth/register) v2ray
+* [6pan](https://alkt.lanzoui.com/iDWoxgdkowf) 6盘下载工具
 * [v2ray客户端](https://tlanyan.me/v2ray-clients-download/)
 * [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)
 * [EDCwifi](https://www.edcwifi.com.cn/resources) 资源教程
