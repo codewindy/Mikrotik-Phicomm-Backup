@@ -1,5 +1,6 @@
 # MikroTik-Phicomm-Backup
 * [xueyun.club](http://xueyun.club) 免费机场
+* [https://freeyes.xyz/](https://freeyes.xyz/) 免费v2rayN
 * [https://chinag.pro/](https://chinag.pro/) chinag
 * [rerere.top](http://www.rerere.top/auth/register) 10GB ssr
 * [jgjc.top](http://www.jgjc.top/auth/register) v2ray
