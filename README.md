@@ -1,5 +1,10 @@
 # MikroTik-Phicomm-Backup
 * [xueyun.club](http://xueyun.club) 免费机场
+* [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)破解vpn软件
+* [https://jinkela001.xyz](https://jinkela001.xyz/user)
+* [clash](https://docs.cfw.lbyczf.com/) clash androids & ios
+* [黑洞加速器](https://www.heidongfast.com/)
+* [雷霆加速器](https://www.rufrsp.com/)
 * [https://freeyes.xyz/](https://freeyes.xyz/) 免费v2rayN
 * [https://chinag.pro/](https://chinag.pro/) chinag
 * [rerere.top](http://www.rerere.top/auth/register) 10GB ssr
