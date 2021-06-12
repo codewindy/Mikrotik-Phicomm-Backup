@@ -1,8 +1,8 @@
 # MikroTik-Phicomm-Backup
 * [xueyun.club](http://xueyun.club) 免费机场
-* [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)破解vpn软件
-* [https://jinkela001.xyz](https://jinkela001.xyz/user)
-* [clash](https://docs.cfw.lbyczf.com/) clash androids & ios
+* [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)  破解vpn软件
+* [jinkela001.xyz](https://jinkela001.xyz/user) 金坷垃机场
+* [clash 客户端](https://docs.cfw.lbyczf.com/) androids & ios
 * [黑洞加速器](https://www.heidongfast.com/)
 * [雷霆加速器](https://www.rufrsp.com/)
 * [https://freeyes.xyz/](https://freeyes.xyz/) 免费v2rayN
