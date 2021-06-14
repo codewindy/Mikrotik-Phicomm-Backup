@@ -11,7 +11,6 @@
 * [jgjc.top](http://www.jgjc.top/auth/register) v2ray
 * [6pan](https://alkt.lanzoui.com/iDWoxgdkowf) 6盘下载工具
 * [v2ray客户端](https://tlanyan.me/v2ray-clients-download/)
-* [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)
 * [EDCwifi](https://www.edcwifi.com.cn/resources) 资源教程
 * [EDCwifi.com](https://download.edcwifi.com/index.php?title=MikroTik%E6%89%8B%E5%86%8C) edcwifi npk download
 * [hap ac2 vs rt-ac86u](http://routerchart.com/compare/mikrotik-routerboard-hap-ac-rb962uigs-5hact2hnt-151,asus-rt-ac86u-rt-ac86u-369)
