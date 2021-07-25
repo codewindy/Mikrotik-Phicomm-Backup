@@ -1,5 +1,6 @@
 # MikroTik-Phicomm-Backup
 * [xueyun.club](http://xueyun.club) 免费机场
+* [www.mzfast.org](http://www.mzfast.org/register) HK 直连
 * [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)  破解vpn软件
 * [jinkela001.xyz](https://jinkela001.xyz/user) 金坷垃机场
 * [clash 客户端](https://docs.cfw.lbyczf.com/) androids & ios
