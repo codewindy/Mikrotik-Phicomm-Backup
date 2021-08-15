@@ -1,10 +1,11 @@
 # MikroTik-Phicomm-Backup
 * [xueyun.club](http://xueyun.club) 免费机场
+* [熊猫vpn https://wwe.lanzoui.com/iX1mir5cimj](https://wwe.lanzoui.com/iX1mir5cimj) 密码:afw6  无限试用清除数据/4h  （试用到期后，清除全部数据，重新打开即可继续试用） 下载:https://wwi.lanzoui.com/i8wKtreermj 密码:ffsy
+* [ExpressVPN 7Day Trial](https://wwi.lanzoui.com/iERFMqseu6j) 密码:5c9n
 * [www.mzfast.org](http://www.mzfast.org/register) HK 直连
 * [https://www.xflash.cc/](https://www.xflash.cc/#/register) 免费10G 流量
 * [https://10minutemail.info/](https://10minutemail.info/) 10分钟邮箱
 * [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)  破解vpn软件
-* [pandavpnpro.com](https://wwe.lanzoui.com/iX1mir5cimj) 密码:afw6  无限试用清除数据/4h
 * [jinkela001.xyz](https://jinkela001.xyz/user) 金坷垃机场
 * [clash 客户端](https://docs.cfw.lbyczf.com/) androids & ios
 * [黑洞加速器](https://www.heidongfast.com/)
