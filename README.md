@@ -1,6 +1,8 @@
 # MikroTik-Phicomm-Backup
 * [xueyun.club](http://xueyun.club) 免费机场
-* [熊猫vpn https://wwe.lanzoui.com/iX1mir5cimj](https://wwe.lanzoui.com/iX1mir5cimj) 密码:afw6  无限试用清除数据/4h  （试用到期后，清除全部数据，重新打开即可继续试用） 下载:https://wwi.lanzoui.com/i8wKtreermj 密码:ffsy
+* [熊猫vpn](https://wwe.lanzoui.com/iX1mir5cimj) 密码:afw6  
+ > 无限试用清除数据/4h  （试用到期后，清除全部数据，重新打开即可继续试用）</br>
+ > 仅限 Android 端 apk下载地址2:https://wwi.lanzoui.com/i8wKtreermj 密码:ffsy
 * [ExpressVPN 7Day Trial](https://wwi.lanzoui.com/iERFMqseu6j) 密码:5c9n
 * [www.mzfast.org](http://www.mzfast.org/register) HK 直连
 * [https://www.xflash.cc/](https://www.xflash.cc/#/register) 免费10G 流量
