@@ -6,6 +6,7 @@
  > 仅限 Android 端 apk下载地址2:https://wwi.lanzoui.com/i8wKtreermj 密码:ffsy
 * [**ExpressVPN 7Day Trial**](https://wwi.lanzoui.com/iERFMqseu6j) 密码:5c9n
 * [www.mzfast.org](http://www.mzfast.org/register) HK 直连
+* [ghproxy](https://ghproxy.com/) github加速下载
 * [https://www.xflash.cc/](https://www.xflash.cc/#/register) 免费10G 流量
 * [https://10minutemail.info/](https://10minutemail.info/) 10分钟邮箱
 * [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)  破解vpn软件
