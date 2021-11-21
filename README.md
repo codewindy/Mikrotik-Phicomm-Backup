@@ -2,7 +2,8 @@
 * [xueyun.club](http://xueyun.club) 免费机场
 * [**熊猫vpn**](https://wwe.lanzoui.com/iX1mir5cimj) **密码 afw6 网速稳定又快**
  > 仅限 Android 端 apk下载地址bak :https://wwi.lanzoui.com/i8wKtreermj 密码:ffsy
-* [letsvpn](https://letsvpn.world/) https://download.dwladold.xyz/windows/letsvpn-3.0.0.exe 快连VPN 秒开YouTube 速度快  [unlimited patch](https://github.com/codewindy/win-toolbak/blob/master/%E5%BF%AB%E8%BF%9EVPN%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%813.0.exe)
+* [letsvpn](https://letsvpn.world/)  直连地址 `https://download.dwladold.xyz/windows/letsvpn-3.0.0.exe`
+ > 快连VPN 秒开YouTube 速度快  [unlimited patch](https://github.com/codewindy/win-toolbak/blob/master/%E5%BF%AB%E8%BF%9EVPN%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%813.0.exe)
  > 无限试用清除数据/4h  （试用到期后，清除全部数据，重新打开即可继续试用，不要升级）</br>
 * [emo_VPN_1.0.0.apk](https://disk.yandex.ru/d/sSD6sJCr4Cao3A) https://www.mediafire.com/file/x4d0al4e61w194d/emo_VPN_1.0.0.apk/file 速度很快
 * [**ExpressVPN 7Day Trial**](https://wwi.lanzoui.com/iERFMqseu6j) 密码:5c9n
