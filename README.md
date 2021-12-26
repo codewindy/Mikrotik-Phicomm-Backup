@@ -1,7 +1,7 @@
 # MikroTik-Phicomm-Backup
 * [优途加速器_v1.1.29.apk](https://www.mediafire.com/file/zm22yrvw2gwveb8/优途加速器_v1.1.29.apk/file) 网速稳定又快
 * [letsvpn](https://letsvpn.world/)  直连地址 `https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe`
- > 快连VPN 秒开YouTube 速度快  [unlimited patch](https://github.com/codewindy/win-toolbak/blob/master/%E5%BF%AB%E8%BF%9EVPN%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%813.0.exe)
+ > 快连VPN 秒开YouTube 速度快  [unlimited patch](https://github.com/codewindy/Mikrotik-Phicomm-Backup/blob/master/%E5%BF%AB%E8%BF%9E%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%813.2.exe)
  > 无限试用清除数据/4h  （试用到期后，清除全部数据，重新打开即可继续试用，不要升级）</br>
 * [emo_VPN_1.0.0.apk](https://disk.yandex.ru/d/sSD6sJCr4Cao3A) https://www.mediafire.com/file/x4d0al4e61w194d/emo_VPN_1.0.0.apk/file 速度很快
 * [**ExpressVPN 7Day Trial**](https://wwi.lanzoui.com/iERFMqseu6j) 密码:5c9n
@@ -9,7 +9,7 @@
 * [ghproxy](https://ghproxy.com/) github加速下载
 * [https://www.xflash.cc/](https://www.xflash.cc/#/register) 免费10G 流量
 * [https://10minutemail.info/](https://10minutemail.info/) 10分钟邮箱
-* [merlinblog.xyz](https://merlinblog.xyz/wiki/freess.html)  破解vpn软件
+* [<font color='red'>merlinblog.xyz</font>](https://merlinblog.xyz/wiki/freess.html)  破解vpn软件
 * [jinkela001.xyz](https://jinkela001.xyz/user) 金坷垃机场
 * [clash 客户端](https://docs.cfw.lbyczf.com/) androids & ios
 * [黑洞加速器](https://www.heidongfast.com/)
