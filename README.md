@@ -9,7 +9,7 @@
 * [ghproxy](https://ghproxy.com/) github加速下载
 * [https://www.xflash.cc/](https://www.xflash.cc/#/register) 免费10G 流量
 * [https://10minutemail.info/](https://10minutemail.info/) 10分钟邮箱
-* [<font color='red'>merlinblog.xyz</font>](https://merlinblog.xyz/wiki/freess.html)  破解vpn软件
+* [**merlinblog.xyz**](https://merlinblog.xyz/wiki/freess.html) **破解vpn软件**
 * [jinkela001.xyz](https://jinkela001.xyz/user) 金坷垃机场
 * [clash 客户端](https://docs.cfw.lbyczf.com/) androids & ios
 * [黑洞加速器](https://www.heidongfast.com/)
