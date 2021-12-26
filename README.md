@@ -9,7 +9,7 @@
 * [ghproxy](https://ghproxy.com/) github加速下载
 * [https://www.xflash.cc/](https://www.xflash.cc/#/register) 免费10G 流量
 * [https://10minutemail.info/](https://10minutemail.info/) 10分钟邮箱
-* [**merlinblog.xyz**](https://merlinblog.xyz/wiki/freess.html) **破解vpn软件**
+* [**merlinblog.xyz**](https://merlinblog.xyz/wiki/freess.html) **破解vpn软件apk 以及机场**
 * [shadowrocket账号试用](https://opssh.cn/fenxiang/4.html) `https://opssh.cn/fenxiang/4.html`
 * [.NET Framework 4.8 运行库官方离线安装包【2019/03/18】（Windows 10 已经自带）](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe) `https://www.423down.com/2545.html`
 * [jinkela001.xyz](https://jinkela001.xyz/user) 金坷垃机场
