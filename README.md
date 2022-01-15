@@ -1,7 +1,7 @@
 # MikroTik-Phicomm-Backup
 * [优途加速器_v1.1.29.apk](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 网速稳定又快
 * [letsvpn](https://letsvpn.world/)  直连地址 `https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe`
-* * [快连一键破解补丁3.2.exe.zip](https://www.mediafire.com/file/wuyxj0pb4y3sgpi/%25E5%25BF%25AB%25E8%25BF%259E%25E4%25B8%2580%25E9%2594%25AE%25E7%25A0%25B4%25E8%25A7%25A3%25E8%25A1%25A5%25E4%25B8%25813.2.exe.zip/file)
+* [**快连一键破解补丁3.2.exe.zip**](https://www.mediafire.com/file/wuyxj0pb4y3sgpi/%25E5%25BF%25AB%25E8%25BF%259E%25E4%25B8%2580%25E9%2594%25AE%25E7%25A0%25B4%25E8%25A7%25A3%25E8%25A1%25A5%25E4%25B8%25813.2.exe.zip/file)
 
  > 快连VPN 秒开YouTube 速度快  [unlimited patch](https://github.com/codewindy/Mikrotik-Phicomm-Backup/blob/master/%E5%BF%AB%E8%BF%9E%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%813.2.exe)
  > 无限试用清除数据/4h  （试用到期后，清除全部数据，重新打开即可继续试用，不要升级）</br>
