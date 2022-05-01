@@ -1,27 +1,46 @@
 # MikroTik-Phicomm-Backup
+
+##   1. Available app
+
+* [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快
+
+* 小羽vpn https://play.google.com/store/apps/details?id=com.github.smallwings&hl=pt&gl=US
+
+* [优途vpn](https://www.youtuvpn.co/index.html)
+
+* [kuto](https://www.kutogroup.com/apps/zh-vpn.html)
+
+* [emo_vpn](https://emo001.club/#/Download?category=Mac)
+
+* [letvpn](https://letsvpn.world/)
+
+* [**merlinblog.xyz**](https://merlinblog.xyz/wiki/freess.html) **破解vpn软件apk 以及机场**
+
+* [423down](https://www.423down.com/apk) 安卓下载
+
+  
+
+## 2. Unavailable app
+
 * [优途加速器_v1.1.29.apk](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 网速稳定又快
 * [letsvpn](https://letsvpn.world/)  直连地址 `https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe`
+
  >  [**快连一键破解补丁3.2.exe.zip**](https://www.mediafire.com/file/wuyxj0pb4y3sgpi/%25E5%25BF%25AB%25E8%25BF%259E%25E4%25B8%2580%25E9%2594%25AE%25E7%25A0%25B4%25E8%25A7%25A3%25E8%25A1%25A5%25E4%25B8%25813.2.exe.zip/file)
  >  或者快连VPN 秒开YouTube 速度快  [unlimited patch](https://github.com/codewindy/Mikrotik-Phicomm-Backup/blob/master/%E5%BF%AB%E8%BF%9E%E4%B8%80%E9%94%AE%E7%A0%B4%E8%A7%A3%E8%A1%A5%E4%B8%813.2.exe)
- > 无限试用清除数据/4h  （试用到期后，清除全部数据，重新打开即可继续试用，不要升级）</br>
+ >  无限试用清除数据/4h  （试用到期后，清除全部数据，重新打开即可继续试用，不要升级）</br>
+
 * [emo_VPN_1.0.0.apk](https://disk.yandex.ru/d/sSD6sJCr4Cao3A) https://www.mediafire.com/file/x4d0al4e61w194d/emo_VPN_1.0.0.apk/file 速度很快
-* [**ExpressVPN 7Day Trial**](https://wwi.lanzoui.com/iERFMqseu6j) 密码:5c9n
+* [**ExpressVPN 7Day Trial**](https://wwi.lanzoui.com/iERFMqseu6j) 密码:5c9nssss
 * [www.mzfast.org](http://www.mzfast.org/register) HK 直连
 * [ghproxy](https://ghproxy.com/) github加速下载
 * [https://www.xflash.cc/](https://www.xflash.cc/#/register) 免费10G 流量
 * [https://10minutemail.info/](https://10minutemail.info/) 10分钟邮箱
-* [**merlinblog.xyz**](https://merlinblog.xyz/wiki/freess.html) **破解vpn软件apk 以及机场**
 * [shadowrocket账号试用](https://opssh.cn/fenxiang/4.html) `https://opssh.cn/fenxiang/4.html`
 * [.NET Framework 4.8 运行库官方离线安装包【2019/03/18】（Windows 10 已经自带）](https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe) `https://www.423down.com/2545.html`
-* [jinkela001.xyz](https://jinkela001.xyz/user) 金坷垃机场
 * [clash 客户端](https://docs.cfw.lbyczf.com/) androids & ios
 * [黑洞加速器](https://www.heidongfast.com/)
 * [雷霆加速器](https://www.rufrsp.com/)
-* [https://freeyes.xyz/](https://freeyes.xyz/) 免费v2rayN
 * [https://chinag.pro/](https://chinag.pro/) chinag
-* [rerere.top](http://www.rerere.top/auth/register) 10GB ssr
-* [jgjc.top](http://www.jgjc.top/auth/register) v2ray
-* [6pan](https://alkt.lanzoui.com/iDWoxgdkowf) 6盘下载工具
 * [v2ray客户端](https://tlanyan.me/v2ray-clients-download/)
 * [EDCwifi](https://www.edcwifi.com.cn/resources) 资源教程
 * [EDCwifi.com](https://download.edcwifi.com/index.php?title=MikroTik%E6%89%8B%E5%86%8C) edcwifi npk download
@@ -38,14 +57,20 @@
 * [RouterPassView](https://www.nirsoft.net/utils/router_password_recovery.html)
 * [koolss_2.2.2_x64.tar.gz openwrt](https://github.com/codewindy/Mikrotik-Phicomm-Backup/blob/master/koolss_2.2.2_x64.tar.gz) 离线安装 
 * [v2ray_2.3.7_x64.tar.gz openwrt](https://github.com/codewindy/Mikrotik-Phicomm-Backup/blob/master/v2ray_2.3.7_x64.tar.gz) 离线安装
-![2020-05-18_211705v2ray.png](https://i.loli.net/2020/05/18/EWYZBStAOx9wkDi.png)
+  ![2020-05-18_211705v2ray.png](https://i.loli.net/2020/05/18/EWYZBStAOx9wkDi.png)
+
 # hap ac2 optimized
+
 * [RBD52G-5HacD2HnD](https://codewindy.github.io/2020/04/18/RouterOS-Optimized/) `RouterOS 无线优化和常用配置`
 
-*  优化hap ac2无线参数
-*  **`C- is center of frequency ` `e - is extension channel `**  example : frequency is 5100 and in eCee will be see (5080-e,5100-C,5120-e,5140-e)
+* 优化hap ac2无线参数
+
+* **`C- is center of frequency ` `e - is extension channel `**  example : frequency is 5100 and in eCee will be see (5080-e,5100-C,5120-e,5140-e)
+
 * fragmentation-threshold命令用来配置指定射频模板中的报文分段门限参数。缺省情况下，**`报文分段门限参数为2346Byte`**。应用场景配置合理的报文分段门限参数可以提高信道带宽的利用率。报文分段门限的设置需要用户根据实际情况进行选择，根据目前的发展趋势，建议用户采用较大值的门限。当报文分段门限设置过小时，报文就被分为多段传输，而在无线传输中，每传送一次都有较大的额外开销，因此信道利用率低,当报文分段门限设置过大时，长报文就不容易被分段，导致传输的时间长，出错的概率大，而一旦出错就要重传，因此会造成信道带宽的浪费。
+
 * ts-cts模式：当AP向某个客户端发送数据的时候，AP会向客户端发送一个RTS报文，这样在AP覆盖范围内的所有设备在收到RTS后都会在指定的时间内不发送数据。目的客户端收到RTS后，发送一个CTS报文，这样在该客户端覆盖范围内所有的设备都会在指定的时间内不发送数据。使用rts-cts方式实现冲突避免需要发送两个报文，报文开销较大。
+
   ```shell
     /interface wireless
     set [ find default-name=wlan1 ] country=china mode=ap-bridge ssid=tpy wireless-protocol=802.11
@@ -61,9 +86,13 @@
     /interface wireless nstreme
     set wlan2 enable-polling=no
   ```
+
 ## hotspot config
+
 * 首先下载`wifite_deauth.zip` **修改源码实现扫描附近Wi-Fi并deauth已>连接的client配合RouterOS的hotspot镜像相同的ssid并开启packet sniffer来抓取密码**
 * ![IMG_9219 _1_.png](https://i.loli.net/2020/08/31/zO68KxwlGdZaSyi.png)
 * 客户端连接到hotspot后根据上图的提示输入Wi-Fi密码，此时已经配置好抓包的RouterOS可以获取到明文密码，通过导出到wireshark并在其中搜索`http contains POST`即可快速定位到该提交的密码数据包  
+
 ## 伪造PPPOE服务器来恢复宽带账号密码
-* [RouterOS_PPPOE_PacketSniffer](https://codewindy.github.io/2018/05/01/RouterOS_PPPOE_PacketSniffer/)
+
+* [RouterOS_PPPOE_PacketSniffer](
