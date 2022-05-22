@@ -6,6 +6,7 @@
 * [fflemon快柠檬🍋](https://fflemon.com/p/downloads) https://fflemon.com/p/downloads  全平台覆盖
 
 * 小羽vpn https://play.google.com/store/apps/details?id=com.github.smallwings&hl=pt&gl=US
+* [黑洞加速器.apk Gnet破解](https://www.mediafire.com/file/lm5yeexi0565hur/%25E9%25BB%2591%25E6%25B4%259E%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v4.3.1.apk/file)
 
 * [优途vpn](https://www.youtuvpn.co/index.html)
 
