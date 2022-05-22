@@ -3,6 +3,7 @@
 ##   1. Available app
 
 * [阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快
+* [fflemon快柠檬🍋](https://fflemon.com/p/downloads) https://fflemon.com/p/downloads  全平台覆盖
 
 * 小羽vpn https://play.google.com/store/apps/details?id=com.github.smallwings&hl=pt&gl=US
 
