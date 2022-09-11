@@ -3,7 +3,7 @@
 ##   1. Available app
 
 * ~~[阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快~~
-* [安易加速器](https://www.anyi8.com/) 安易加速器 默认7天会员 支持android & win10
+* [安易加速器](https://www.anyi8.com/)  默认7天会员 支持android & win10
 * [fflemon快柠檬🍋](https://fflemon.com/p/downloads) https://fflemon.com/p/downloads  全平台覆盖
 
 * 小羽vpn https://play.google.com/store/apps/details?id=com.github.smallwings&hl=pt&gl=US
