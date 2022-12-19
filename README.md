@@ -4,6 +4,7 @@
 
 * ~~[阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快~~
 * [安易加速器](https://www.anyi8.com/)  默认7天会员 支持android & win10
+* [快连vpn.apk](https://i11.lanzoug.com/1219090093566871bb/2022/12/14/8d7b0f7103fd3d74666b4a96a96dcef5.apk?st=X6syo_GbymWVYGyRJOwx1A&e=1671414826&b=CLkLiwCQUbFQul6jVe1U71SfXONU1QGWBQlbZAApVGdWMwslBjdRYlUuUmVWdlI9&fi=93566871&pid=113-118-147-168&up=2&mp=1&co=1)
 * [fflemon快柠檬🍋](https://fflemon.com/p/downloads) https://fflemon.com/p/downloads  全平台覆盖
 
 * 小羽vpn https://play.google.com/store/apps/details?id=com.github.smallwings&hl=pt&gl=US
