@@ -2,7 +2,7 @@
 ##  不要没事升级安卓MIUI系统升级后可能软件不可用
 ##   1. Available app
 
-* [快连_2.17.16.apk](https://i11.lanzoug.com/1225110093566871bb/2022/12/14/8d7b0f7103fd3d74666b4a96a96dcef5.apk?st=M7r9lxFn95zTHvuOQ1YAsg&e=1671940728&b=ALFa2lfHUrJQugL_aA7tS6QfMCLcHhlTDU19YZwcuXm1TNgAuVGVRYlYtX2gCIgRr&fi=93566871&pid=116-30-196-126&up=2&mp=1&co=1)  
+* [快连_2.17.16.apk](https://i11.lanzoug.com/1225110093566871bb/2022/12/14/8d7b0f7103fd3d74666b4a96a96dcef5.apk?st=M7r9lxFn95zTHvuOQ1YAsg&e=1671940728&b=ALFa2lfHUrJQugL_aA7tS6QfMCLcHhlTDU19YZwcuXm1TNgAuVGVRYlYtX2gCIgRr&fi=93566871&pid=116-30-196-126&up=2&mp=1&co=1)  邀请码 10597530送3天时间 macOS删除后重新安装即可
 * [seagulltool apk](https://seagulltool.web.app/index-zh.html) 可以配置给电脑代理
 * [快连vpn.apk](https://i11.lanzoug.com/1219090093566871bb/2022/12/14/8d7b0f7103fd3d74666b4a96a96dcef5.apk?st=X6syo_GbymWVYGyRJOwx1A&e=1671414826&b=CLkLiwCQUbFQul6jVe1U71SfXONU1QGWBQlbZAApVGdWMwslBjdRYlUuUmVWdlI9&fi=93566871&pid=113-118-147-168&up=2&mp=1&co=1)
 * [fflemon快柠檬🍋](https://fflemon.com/p/downloads) https://fflemon.com/p/downloads  全平台覆盖
