@@ -23,6 +23,7 @@
 * [**merlinblog.xyz**](https://merlinblog.xyz/wiki/freess.html) **破解vpn软件apk 以及机场**
 
 * [423down](https://www.423down.com/apk) 安卓下载
+* [raptor vpn 1.4.2](www.sky77.cc) 安卓和ios 下载地址 https://github.com/tianxingspeed/tx?tab=readme-ov-file
 
   
 
