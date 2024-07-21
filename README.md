@@ -1,6 +1,9 @@
 # MikroTik-Phicomm-Backup
 ##  不要没事升级安卓MIUI系统升级后可能软件不可用
 ##   1. Available app
+* [https://www.axjsq.com/](https://www.axjsq.com/) 安装 安卓破解登录然后再电脑登录，共用一个账户能用9999天
+
+## 2. Unavailable app
 
 * [快连_2.17.16.apk](https://i11.lanzoug.com/1225110093566871bb/2022/12/14/8d7b0f7103fd3d74666b4a96a96dcef5.apk?st=M7r9lxFn95zTHvuOQ1YAsg&e=1671940728&b=ALFa2lfHUrJQugL_aA7tS6QfMCLcHhlTDU19YZwcuXm1TNgAuVGVRYlYtX2gCIgRr&fi=93566871&pid=116-30-196-126&up=2&mp=1&co=1)  邀请码 `123456789` 送3天时间 macOS删除后重新安装即可
 * [seagulltool apk](https://seagulltool.web.app/index-zh.html) 可以配置给电脑代理
@@ -26,8 +29,6 @@
 * [raptor vpn 1.4.2](www.sky77.cc) 安卓和ios 下载地址 https://github.com/tianxingspeed/tx?tab=readme-ov-file
 * [https://tempmail.email/](https://tempmail.email/)
   
-
-## 2. Unavailable app
 * ~~[阿特加速器](atevpn.tk)  https://xuezou.lanzouj.com/iFYHUzj174b 速度很快~~
 * [优途加速器_v1.1.29.apk](https://www.mediafire.com/file/fi7337flmt32fxd/%25E4%25BC%2598%25E9%2580%2594%25E5%258A%25A0%25E9%2580%259F%25E5%2599%25A8_v1.1.29.apk/file) 网速稳定又快
 * [letsvpn](https://letsvpn.world/)  直连地址 `https://download.dwladold.xyz/windows/letsvpn-3.2.2.exe`
