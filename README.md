@@ -1,7 +1,12 @@
 # MikroTik-Phicomm-Backup
 ##  不要没事升级安卓MIUI系统升级后可能软件不可用
+> FLCLASH  Nekoray 软件下载于github
+> 
 ##   1. Available app
 * [https://www.axjsq.com/](https://www.axjsq.com/) 安装 安卓破解登录然后再电脑登录，共用一个账户能用9999天
+* https://ibaleyy.com/webapp/#/home/scaffold  切换页面到ios 即可拿到节点订阅地址
+* https://shunfengjiasu.cc/#/dashboard      白嫖节点
+* https://ruanjianku.cloud/category/show7/  软件库科学上网安卓apk 下载
 
 ## 2. Unavailable app
 
